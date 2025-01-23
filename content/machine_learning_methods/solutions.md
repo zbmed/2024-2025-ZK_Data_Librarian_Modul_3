@@ -23,7 +23,7 @@ LastModifierEmail = ""
 +++
 
 Hier die Jupyter Notebooks mit Musterlösungen (ablegen mit "Speichern unter"):
-- [Klassifikation](https://raw.githubusercontent.com/zbmed/2023-2024-ZK_Data_Librarian_Modul_3/master/content/machine_learning_methods/solution_jupyter_notebooks/Klassifikation.ipynb)
-- [Regression](https://raw.githubusercontent.com/zbmed/2023-2024-ZK_Data_Librarian_Modul_3/master/content/machine_learning_methods/solution_jupyter_notebooks/Regression.ipynb)
-- [Dimensionsreduktion](https://raw.githubusercontent.com/zbmed/2023-2024-ZK_Data_Librarian_Modul_3/master/content/machine_learning_methods/solution_jupyter_notebooks/Dimensionsreduktion.ipynb)
+- [Klassifikation](https://raw.githubusercontent.com/zbmed/2024-2025-ZK_Data_Librarian_Modul_3/master/content/machine_learning_methods/solution_jupyter_notebooks/Klassifikation.ipynb)
+- [Regression](https://raw.githubusercontent.com/zbmed/2024-2025-ZK_Data_Librarian_Modul_3/master/content/machine_learning_methods/solution_jupyter_notebooks/Regression.ipynb)
+- [Dimensionsreduktion](https://raw.githubusercontent.com/zbmed/2024-2025-ZK_Data_Librarian_Modul_3/master/content/machine_learning_methods/solution_jupyter_notebooks/Dimensionsreduktion.ipynb)
 
