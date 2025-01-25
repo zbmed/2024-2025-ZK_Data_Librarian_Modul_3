@@ -35,24 +35,25 @@ Im ersten Teil des Moduls werden wir einen offenen Kundendatensatz der öffentli
 
 > The Integrated Library System (ILS) is composed of bibliographic records including inventoried items, and patron records including circulation data. The data is used in the daily operation of the library, including circulation, online public catalog, cataloging, acquisitions, collection development, processing, and serials control. This dataset represents the usage of inventoried items by patrons ... (*Abstract taken from [here](https://data.sfgov.org/Culture-and-Recreation/Library-Usage/qzz6-2jup)*)
 
-
 {{% customnotice exercise%}}
 #### 1.2 Arbeiten mit dem Datensatz der [SFPL](https://sfpl.org/) (20 Min)
-1. Besuche das [offene Daten-Portal](https://data.sfgov.org/Culture-and-Recreation/Library-Usage/qzz6-2jup) der Stadt San Francisco und informiere Dich über den Datensatz.
-2. Lade den Datensatz [Library_Usage.csv](https://data.sfgov.org/api/views/qzz6-2jup/rows.csv?accessType=DOWNLOAD) aus dem Internet herunter und speichere ihn im Projektordner im Unterordner `./data/` ab.
-3. Stell sicher, dass Dein Projektordner die folgende Verzeichnisstruktur aufweist:
+1. Lade den Datensatz [Library_Usage.csv](https://data.sfgov.org/api/views/qzz6-2jup/rows.csv?accessType=DOWNLOAD) aus dem Internet herunter und speichere ihn im Projektordner im Unterordner `./data/` ab.
+2. Stell sicher, dass Dein Projektordner die folgende Verzeichnisstruktur aufweist:
 ```shell
-Module_3
+Modul_3
 ├── data
 │   └── Library_Usage.csv
 ├── notebooks
 ```
+3. Informiere Dich über den Datensaty über die entsprechende [Seite](https://data.sfgov.org/Culture-and-Recreation/Library-Usage/qzz6-2jup) im [offenen Datenportal](https://datasf.org/opendata/)der Stadt San Francisco und schaue Dir die detallierte Erklärung der einzelnen Variablen des Datensatzes (=Spalten der Tabelle) an.
 {{% /customnotice %}}
 
+
+<!--
 {{% customnotice tip%}}
 Auf der [Seite](https://data.sfgov.org/Culture-and-Recreation/Library-Usage/qzz6-2jup ) findest Du eine detallierte Erklärung der einzelnen Variablen des Datensatzes (=Spalten der Tabelle).
 {{% /customnotice %}}
-
+-->
 
 
 

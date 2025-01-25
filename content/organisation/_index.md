@@ -17,7 +17,7 @@ Diese Einheit gibt einen Überblick über die Kursinhalte, wichtige Termine und 
 
 - Überblick über das gesamte Modul (Kurseinheiten, Termine)
 - Anpassung des eigenen Git-Repositoriums für das Arbeiten mit einem offenen Datensatz der San Francisco Library
-- Erinnerung: Installation von Anaconda mit Python 3.12 auf Deinem Rechner
+- Erinnerung: Installation von Anaconda mit Python 3.12.* auf Deinem Rechner
 - Erinnerung: Installation bzw. Nutzung von Jupyter Notebooks auf Deinem Rechner
 - Überblick über verschiedene Python Pakete und Bibliotheken
 - Einordnung der Begriffe Statistik, Data Science und Machine Learning

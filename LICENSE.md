@@ -1,4 +1,4 @@
-(c) by 2020-2023 Malte Bonart, Ania Lopez and Konrad Förstner
+(c) by 2020-2025 Malte Bonart, Ania Lopez and Konrad Förstner
 
 This work is licensed under a Creative Commons Attribution 4.0
 International License.
