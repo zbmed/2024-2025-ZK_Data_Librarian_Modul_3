@@ -23,7 +23,7 @@ LastModifierEmail = ""
 +++
 
 
-### 24.02.2024 – 04.03.2024
+### 03.02.2025 – 16.02.2025
 
 # Deskriptive Statistik und Visualisierungen
 
@@ -51,7 +51,7 @@ Für eine erste Demo bist Du verantwortlich:
 - Berechne 2-3 Statistiken und erstelle 2-3 Visualisierungen basierend auf den Informationen im [Datensatz](/2024-2025-ZK_Data_Librarian_Modul_3/organisation/dataset/).
 - Nutze `pandas` zur Berechnung der Statistiken und `seaborn` für die Visualisierungen.
 
-Lade bis spätestens **18.03.24** Deinen Report in Form eines *Jupyter Notebooks* in der [Dateiablage](https://zbiw.th-koeln.de/moodle/mod/assign/view.php?id=12281&forceview=1) in Moodle hoch.
+Lade bis spätestens **02.03.25** Deinen Report in Form eines *Jupyter Notebooks* in der [Dateiablage](https://zbiw.th-koeln.de/moodle/mod/assign/view.php?id=16775) in Moodle hoch.
 
 {{% /customnotice %}}
 

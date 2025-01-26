@@ -21,6 +21,6 @@ LastModifierEmail = ""
 
 {{< quiz vorbereitung_quiz>}}
 {{< item question="1. Mit welcher Tastenkombination kannst Du Zellen in Jupyter Notebooks ausführen?" answer=3 choices="Strg+R,Enter,Strg+Enter" >}}
-{{< item question="2. Wie viele Zeilen enthält der San Francisco Library Usage Datensatz?" answer=2 choices="423448,436290,493515,4210398" >}}
+{{< item question="2. Wie viele Zeilen enthält der San Francisco Library Usage Datensatz?" answer=2 choices="423448,450359,493515,4210398" >}}
 {{< item question="3. Was macht die Funktion sns.set_theme() aus dem seaborn package?" answer=3 choices="das Paket seaborn wird importiert,dem Paket wird der kürzere Name sns zugewiesen,das Standard-Design von mit matplotlib generierten Plots wird angepasst" >}}
 {{< /quiz >}}

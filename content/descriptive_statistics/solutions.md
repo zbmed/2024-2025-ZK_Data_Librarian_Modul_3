@@ -75,16 +75,16 @@ Die Balkendiagramme beginnen nicht im Nullpunkt. Somit werden die relativen Unte
 #### Quiz
 
 - rechtsschief
-- `df['Provided Email Address'][df['Age Range'] == '0 to 9 years'].sum()` (überlege, was dieser Ausdruck liefert und setze ihn in Relation mit der Gesamtzahl der 0-9-jährigen)
+- `pd.crosstab(df['Provided Email Address'],df['Age Range'],margins=True)` und `pd.crosstab(df['Provided Email Address'],df['Age Range'],margins=True, normalize=1)`
 - `df['Total Checkouts'].quantile(0.60)`
 - `df['Age Range'].mode()`
 - `df['Total Renewals'].quantile([0.25, 0.75]).diff()`
 
-
+<!--
 #### Projektaufgabe - Beispielfragen
 
 {{%attachments title="Lösungen" pattern="Musterloesung_Projektaufgabe.ipynb" /%}}
-
+-->
 
 
 

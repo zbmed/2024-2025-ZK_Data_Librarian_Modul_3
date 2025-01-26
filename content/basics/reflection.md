@@ -32,6 +32,6 @@ Schreibe einen **kurzen** Text über die Verwendung von Daten und quantitativen 
 3. Werden statistische Verfahren oder Maschinelles Lernen schon an Deiner Arbeitsstelle eingesetzt?
 4. Welche Fragen oder Phänomene würdest Du gerne untersuchen? Was fändest Du spannend herauszufinden?
 
-Teile Deinen Text bis zum **24.02.2024** mit den anderen KursteilnehmerInnen im Forum zu Modul 3 auf der [Moodle-Kursplattform](https://zbiw.th-koeln.de/moodle/mod/forum/view.php?id=14627). Wenn Du für die anderen lieber **anonym** bleiben möchtest, kannst Du mir auch den Text schicken und ich stelle ihn dann rein.
+Teile Deinen Text bis zum **02.02.2025** mit den anderen KursteilnehmerInnen im Forum zu Modul 3 auf der [Moodle-Kursplattform](https://zbiw.th-koeln.de/moodle/mod/forum/view.php?id=16773). Wenn Du für die anderen lieber **anonym** bleiben möchtest, kannst Du mir auch den Text schicken und ich stelle ihn dann rein.
 
 {{% /customnotice %}}

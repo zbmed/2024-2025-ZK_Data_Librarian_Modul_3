@@ -28,33 +28,33 @@ Wenn beispielsweise der Mittelwert einer statistischen Variable berechnet wird, 
 
 In `DataFrame`s werden fehlende Werte durch das Schlüsselwort `NaN` ("**Not a Number**") angezeigt. Beim Einlesen von Daten (siehe z.B. die [`read_csv` Funktion](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_csv.html)) können mit dem Argument `na_values` zusätzliche Kodierungen für fehlerhafte Werte mit angegeben werden.
 
-<!--### Fallbeispiel
+Fallbeispiel
 
-Der Library Usage Datensatz enthält die Kodierung `"None"` für fehlende Werte. Diese werden von `pandas` beim Einlesen von numerischen Spalten nicht richtig erkannt:
+Der Library Usage Datensatz enthält die Kodierung `"Null"` für fehlende Werte (Statt `"Null"` könnte auch ein beliebiger anderer Textwert stehen). Diese werden von `pandas` beim Einlesen von numerischen Spalten nicht richtig erkannt:
 
 ```python
 import pandas as pd
 
-df = pd.read_csv("../data/Library_Usage.csv")
+df = pd.read_csv("../data/Library_Usage.csv",low_memory=False)
 df['Circulation Active Year']
 ```
-Obwohl die Spalte `'Circulation Active Year'` numerisch ist, wird Sie von `pandas` als Text abgespeichert, da `"None"` nicht als Zahl erkannt wird. Möchtest Du z.B. `2019 - df['Circulation Active Year']` berechnen, so wirst Du eine Fehlermeldung erhalten, da für Text-Werte keine Substraktionen durchgeführt werden können.
+Obwohl die Spalte `'Circulation Active Year'` numerisch ist, wird Sie von `pandas` als Text abgespeichert, da `"Null"` nicht als Zahl erkannt wird. Möchtest Du z.B. `2019 - df['Circulation Active Year']` berechnen, so wirst Du eine Fehlermeldung erhalten, da für Text-Werte keine Substraktionen durchgeführt werden können.
 
 Um das Problem zu beheben kannst Du auf zwei Arten vorgehen. Du kannst bereits beim Einlesen die Kodierung für fehlende Werte mit angeben:
 
 ```python
-df = pd.read_csv("../data/Library_Usage.csv", na_values="None")
+df = pd.read_csv("../data/Library_Usage.csv", low_memory=False, na_values="Null")
 df['Circulation Active Year']
 ```
 
-Oder Du führst nach dem Einlesen eine **explizite Umwandlung** des Datentyps durch:
+Oder Du führst nach dem Einlesen eine **explizite Umwandlung** des Datentyps durchführen:
 
 ```python
-df = pd.read_csv("../data/Library_Usage.csv", na_values="None")
+df = pd.read_csv("../data/Library_Usage.csv", low_memory=False)
 df['Circulation Active Year'] = pd.to_numeric(df['Circulation Active Year'], errors='coerce')
 df['Circulation Active Year']
 ```
--->
+
 {{% customnotice exercise %}}
 
 #### 2.7  Datentypen (1 Minute)

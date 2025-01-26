@@ -27,7 +27,7 @@ Die Zeilen eines `DataFrame`s können über drei verschiedene Arten ausgewählt 
 {{% customnotice code %}}
 ```python
 import pandas as pd
-df = pd.read_csv("../data/Library_Usage.csv")
+df = pd.read_csv("../data/Library_Usage.csv",low_memory=False)
 df.loc[df['Total Checkouts'] > 10000]
 ```
 {{% /customnotice %}}

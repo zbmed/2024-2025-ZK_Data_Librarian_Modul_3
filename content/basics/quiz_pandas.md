@@ -24,6 +24,6 @@ LastModifierEmail = ""
 {{< quiz pandas_quiz>}}
 {{< item question="Wie lautet der Name der Pandas Funktion, mit der Excel-Dateien eingelesen werden können?" answer=1 choices="read_excel,to_excel,load_excel,from_excel" >}}
 {{< item question="Mit welchem Befehl kann man die Anzahl der Zeilen aus einem DataFrame auslesen?" answer=2 choices="df.rows,len(df),df.shape[1],df.size" >}}
-{{< item question="Wie viele fehlende Werte enthält die 'Age Range' Variable des Datensatzes?" answer=2 choices="40,912,0,215" >}}
-{{< item question="Wie viele Beobachtungen zwischen 60 und 64 Jahren waren zuletzt im Jahr 2016 aktive Kunden der Bibliothek?" answer=2 choices="263544,19,159904,12003" >}}
+{{< item question="Wie viele fehlende Werte enthält die 'Age Range' Variable des Datensatzes?" answer=2 choices="40,510,0,215" >}}
+{{< item question="Wie viele Beobachtungen zwischen 60 und 64 Jahren waren zuletzt im Jahr 2016 aktive Kunden der Bibliothek?" answer=2 choices="263544,16,159904,12003" >}}
 {{< /quiz >}}

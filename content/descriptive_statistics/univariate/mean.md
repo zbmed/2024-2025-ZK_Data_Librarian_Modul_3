@@ -47,7 +47,7 @@ Hier ein Beispiel aus unserem Datensatz:
 {{% customnotice code %}}
 ```python
 import pandas as pd
-df = pd.read_csv("../data/Library_Usage.csv")
+df = pd.read_csv("../data/Library_Usage.csv",low_memory=False)
 df['Total Checkouts'].mean()
 ```
 {{% /customnotice %}}

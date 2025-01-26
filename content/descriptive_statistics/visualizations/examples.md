@@ -32,7 +32,7 @@ import numpy as np
 # matplotlib inline
 sns.set_theme()
 
-df = pd.read_csv("../data/Library_Usage.csv")
+df = pd.read_csv("../data/Library_Usage.csv",low_memory=False,na_values="Null")
 
 ```
 

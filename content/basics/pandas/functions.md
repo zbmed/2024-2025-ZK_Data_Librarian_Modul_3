@@ -27,7 +27,7 @@ Mit `df.head()` kannst Du Dir die ersten $n$ Zeilen eines `DataFrame`s anzeigen 
 {{% customnotice code %}}
 ```python
 import pandas as pd
-df = pd.read_csv("../data/Library_Usage.csv")
+df = pd.read_csv("../data/Library_Usage.csv",low_memory=False)
 df.head()
 ```
 {{% /customnotice %}}

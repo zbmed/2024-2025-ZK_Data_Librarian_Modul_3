@@ -43,7 +43,7 @@ import numpy as np
 sns.set_theme()
 
 # use sample to generate a random subsample
-df = pd.read_csv("../data/Library_Usage.csv").sample(n=1000)
+df = pd.read_csv("../data/Library_Usage.csv",low_memory=False,na_values="Null").sample(n=1000)
 ```
 {{% /customnotice%}}
 
@@ -63,7 +63,7 @@ Die Größe des Plots kann über die beiden Argumente `height` (Höhe in [inches
 
 {{% customnotice code%}}
 ```python
-sns.relplot(x='Total Checkouts', y='Total Renewals', data=df
+sns.relplot(x='Total Checkouts', y='Total Renewals', data=df,
             height=5, aspect=3)
 ```
 {{% /customnotice%}}

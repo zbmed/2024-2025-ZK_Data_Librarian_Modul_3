@@ -42,6 +42,9 @@ df = pd.DataFrame({
         'temperatur': [-12, 3, 9]
 })
 
+# have a look at df
+df
+
 # print out some descriptive statistics
 df.describe()
 ```
@@ -52,6 +55,6 @@ df.describe()
 #### 1.5 pandas (15 Min)
 
 - Kopiere das obere Codebeispiel in ein Jupyter Notebook, speichere es in Deinem Projektordner und führe es aus.
-- Füge weitere Temperatur und Monats-Werte dem DataFrame hinzu.
+- Füge weitere Temperatur- und Monats-Werte dem DataFrame hinzu.
 - Welche Statistiken liefert ein Aufruf der Funktion `describe()`?
 {{% /customnotice %}}
