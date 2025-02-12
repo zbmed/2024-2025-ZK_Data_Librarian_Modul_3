@@ -27,7 +27,9 @@ LastModifierEmail = ""
 {{% customnotice code %}}
 ```python
 import pandas as pd
-df = pd.read_csv("../data/Library_Usage.csv")
+df = pd.read_csv('../data/Library_Usage.csv',na_values="Null",
+                 low_memory=False
+                )
 df['Age Range'].value_counts()
 ```
 {{% /customnotice %}}

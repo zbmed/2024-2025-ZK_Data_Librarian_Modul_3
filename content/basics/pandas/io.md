@@ -62,7 +62,7 @@ Da normalerweise der Datensatz komplett in den Arbeitsspeicher geladen werden mu
 #### 2.3 Exkurs: Datenrundreise (30 Min)
 
 - Informiere Dich [hier](https://pandas.pydata.org/pandas-docs/stable/reference/io.html) über die verschiedenen Funktionen zur Ein- und Ausgabe.
-- Lies den Datensatz `"../data/Library_Usage_Small.csv"` ein (Download [hier](/2023-2024-ZK_Data_Librarian_Modul_3/data/Library_Usage_Small.csv)). Er enthält nur 10 Zeilen des originalen Datensatzes (aus Performancegründen).
+- Lies den Datensatz `"../data/Library_Usage_Small.csv"` ein (Download [hier](/2024-2025-ZK_Data_Librarian_Modul_3/data/Library_Usage_Small.csv)). Er enthält nur 10 Zeilen des originalen Datensatzes (aus Performancegründen).
 - Speichere den `DataFrame` als `.json` ab.
 - Lies die `.json` ein und speichere den `DataFrame` als `.html` Tabelle ab (Die `.html` Datei lässt sich auch mit einem Browser öffnen).
 - Lies dann die `.html` Datei ein (Achtung: `read_html` gibt eine Liste von `DataFrame`s zurück!) und speichere den `DataFrame` als `.xlsx` Datei ab (Die `.xlsx` Datei lässt sich auch mit Excel öffnen).

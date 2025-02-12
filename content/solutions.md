@@ -12,18 +12,18 @@ hidden = true
 
 Hier finden sich die Musterlösungen aller Einheiten im Überblick.
 
-##### [1. Kursorganisation und Vorbereitung](/2023-2024-ZK_Data_Librarian_Modul_3/organisation/solutions/)
+##### [1. Kursorganisation und Vorbereitung](/2024-2025-ZK_Data_Librarian_Modul_3/organisation/solutions/)
 
-##### [2. Grundlagen der Datenanalyse in Python](/2023-2024-ZK_Data_Librarian_Modul_3/basics/solutions/)
+##### [2. Grundlagen der Datenanalyse in Python](/2024-2025-ZK_Data_Librarian_Modul_3/basics/solutions/)
 
-##### [3. Deskriptive Statistik und Visualisierungen](/2023-2024-ZK_Data_Librarian_Modul_3/descriptive_statistics/solutions/)
+##### [3. Deskriptive Statistik und Visualisierungen](/2024-2025-ZK_Data_Librarian_Modul_3/descriptive_statistics/solutions/)
 
-##### [4. Exkurs: Inferenzstatistik](/2023-2024-ZK_Data_Librarian_Modul_3/inference/solutions/)
+##### [4. Exkurs: Inferenzstatistik](/2024-2025-ZK_Data_Librarian_Modul_3/inference/solutions/)
 
 
-##### [6. Maschinelles Lernen - Praxis mit scikit-Learn](/2023-2024-ZK_Data_Librarian_Modul_3/machine_learning_methods/solutions/)
+##### [6. Maschinelles Lernen - Praxis mit scikit-Learn](/2024-2025-ZK_Data_Librarian_Modul_3/machine_learning_methods/solutions/)
 
-##### [7. Maschinelles Lernen - Automatische Textanalyse](/2023-2024-ZK_Data_Librarian_Modul_3/text_analysis/solutions/)
+##### [7. Maschinelles Lernen - Automatische Textanalyse](/2024-2025-ZK_Data_Librarian_Modul_3/text_analysis/solutions/)
 
 <!--
 ### 1. Kursorganisation und Vorbereitung

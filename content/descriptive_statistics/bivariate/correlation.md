@@ -30,7 +30,7 @@ $$
 s_{x, y}^2 = \frac{1}{N-1}\sum_{i=1}^{N}(x_i-\bar{x})(y_i-\bar{y}) ,
 $$
 
-wobei $\bar{x}$ und $\bar{y}$ die entsprechenden [Mittelwerte](/2023-2024-ZK_Data_Librarian_Modul_3/descriptive_statistics/univariate/mean/) darstellen und $N$ die Größe der Stichprobe (die Anzahl an Elementen in der Datenreihe von $x$ oder $y$). 
+wobei $\bar{x}$ und $\bar{y}$ die entsprechenden [Mittelwerte](/2024-2025-ZK_Data_Librarian_Modul_3/descriptive_statistics/univariate/mean/) darstellen und $N$ die Größe der Stichprobe (die Anzahl an Elementen in der Datenreihe von $x$ oder $y$). 
 
 Ein positiver Wert der Kovarianz drückt aus, dass wenn die Werte der einen Variablen steigen, dies auch für die andere Variable gilt. Eine negative Kovarianz bedeutet hingegen, dass wenn die Werte der einen Variablen steigen, die Werte der anderen Variablen sinken. 
 
@@ -65,7 +65,7 @@ df['Total Checkouts'].corr(df['Total Renewals'])
 Auch wenn durch die Kovarianz und Korrelationskoeffizienten mathematische Zusammenhänge zwischen Variablen berechnet werden können: große positive oder negative Korrelationen sind kein Indiz für **kausale** Zusammenhänge!
 {{% /customnotice%}}
 
-{{< figure src="/2023-2024-ZK_Data_Librarian_Modul_3/images/spurious_correlation.png"
+{{< figure src="/2024-2025-ZK_Data_Librarian_Modul_3/images/spurious_correlation.png"
 caption="Beispiel für [Scheinkorrelation](https://de.wikipedia.org/wiki/Korrelation#Korrelation_und_Kausalzusammenhang) in Zeitreihen ($\rho_{x,y}=0.99$)"
 attr="Quelle: tylervigen.com" width="100%"
 attrlink="https://www.tylervigen.com/spurious-correlations" >}}

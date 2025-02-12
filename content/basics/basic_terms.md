@@ -29,7 +29,7 @@ LastModifierEmail = ""
 
 Für den statistischen Teil dieses Moduls ist ein gewisses Grundvokabular und Verständnis von allgemeinen Beispielen notwendige Voraussetzung.
 
-Daher ist in der [Moodle-Kursumgebung](https://zbiw.th-koeln.de/moodle/course/view.php?id=663&section=3) das Einführungskapitel des Buchs *Statistik: Der Weg zur Datenanalyse* zum alleinigen persönlichen Gebrauch hinterlegt.[^1]
+Daher ist in der [Moodle-Kursumgebung](https://zbiw.th-koeln.de/moodle/course/view.php?id=735) das Einführungskapitel des Buchs *Statistik: Der Weg zur Datenanalyse* zum alleinigen persönlichen Gebrauch hinterlegt.[^1]
 
 <!--
 ![Statistik, Der Weg zur Datenanalyse, Fahrmeier, Künstler, Pigeot und Tutz](https://images.springer.com/sgw/books/medium/9783662503713.jpg)
