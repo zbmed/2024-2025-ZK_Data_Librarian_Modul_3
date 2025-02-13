@@ -23,7 +23,7 @@ LastModifierEmail = ""
 +++
 
 
-### 05.03.2024 – 10.03.2024
+### 17.02.2025 – 23.02.2025
 
 # Einführung in das Maschinelle Lernen
 
