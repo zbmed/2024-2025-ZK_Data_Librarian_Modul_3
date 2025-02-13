@@ -32,7 +32,7 @@ Das Bild zeigt [**Histogramme**](https://de.wikipedia.org/wiki/Histogramm) für 
 
 Für symmetrische Verteilungen gilt, dass der Mittelwert und der Median gleich sind und das Histogramm an diesen Achsen gespiegelt werden kann. Eine **linkssteile** (rechtschiefe) Verteilung ergibt sich durch einige überdurchschnittlich große Werte. In diesem Fall ist der Mittelwert größer als der Median. Eine **rechtssteile** (linksschiefe) Verteilung ist durch einige unterdurchschnittlich kleine Werte geprägt. Hier ist der Median größer als der Mittelwert.
 
-Zudem kann eine Verteilung auch **Gleichverteilt, Bi- oder Multimodal** sein. Im ersten Fall gibt es keinen Modus, also keinen Wert der Verteilung, der am Häufigsten vorkommt. In den letzteren Fällen gibt es ein oder mehrere Modi. Im Histogramm sind multimodale Verteilungen daran zu erkennen, dass sie typischerweise über zwei oder mehr "Gipfel" verfügen.
+Zudem kann eine Verteilung auch **Gleichverteilt, Uni-, Bi- oder Multimodal** sein. Im ersten Fall gibt es keinen Modus, also keinen Wert der Verteilung, der am Häufigsten vorkommt. In den anderen Fällen gibt es einen, zwei oder mehrere Modi. Im Histogramm sind multimodale Verteilungen daran zu erkennen, dass sie typischerweise über zwei oder mehr "Gipfel" verfügen.
 
 
 {{% customnotice exercise %}}
