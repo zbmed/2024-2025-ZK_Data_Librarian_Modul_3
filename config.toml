@@ -6,7 +6,7 @@ title = "Zertifikatskurs Data Librarian - Modul 3 - Daten analysieren und darste
 #ignorefiles = []
 
 # Change the default theme to be use when building the site with Hugo
-theme = "hugo-theme-learn"
+theme = "hugo-theme-relearn"
 
 [markup.goldmark.renderer]
 unsafe= true
@@ -15,6 +15,7 @@ unsafe= true
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
 
+[security]
 enableInlineShortcodes = false
 
 [params]

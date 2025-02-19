@@ -1,73 +1,53 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Praktische Einführung in Pandas on Zertifikatskurs Data Librarian - Modul 3 - Daten analysieren und darstellen</title>
-    <link>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/basics/pandas/</link>
-    <description>Recent content in Praktische Einführung in Pandas on Zertifikatskurs Data Librarian - Modul 3 - Daten analysieren und darstellen</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>de-DE</language><atom:link href="https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/basics/pandas/index.xml" rel="self" type="application/rss+xml" />
+    <title>Praktische Einführung in Pandas :: Zertifikatskurs Data Librarian - Modul 3 - Daten analysieren und darstellen</title>
+    <link>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/basics/pandas/index.html</link>
+    <description>Grundlage der statistischen Analyse sind Datentabellen: Jede Zeile der Tabelle entspricht einer Beobachtung. Jede Spalte entspricht einer statistischen Variable. Neue Beobachtungen und Variablen können dadurch einfach an die schon bestehende Tabelle angefügt werden.&#xA;Wenn es um Statistik und Programmierung geht werden mit “Variable” oft zwei unterschiedliche Dinge benannt:&#xA;Variable im Kontext eines statistischen Merkmals, das in der Regel als Spalte eines Datensatzes vorliegt. Variablen im Kontext von Programmiersprachen beschreiben benannte Referenzen auf bestimmte Datenstrukturen oder Objekte (z.B. numbers = [1, 2, 3]). Am Beginn jeder statistischen Analyse steht die Aufbereitung und Bereinigung der Daten. Damit ist die Behandlung von fehlenden oder falsch kodierten Werten, die Umkodierung und Transformation von statistischen Variablen oder die Berechnung neuer Spalten gemeint. Oft sind auch nur Untergruppen von Beobachtungen mit bestimmten Merkmausausprägungen von Interesse.</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <atom:link href="http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/basics/pandas/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Series und DataFrames</title>
-      <link>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/basics/pandas/series/</link>
+      <link>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/basics/pandas/series/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/basics/pandas/series/</guid>
-      <description>Series und DataFrames sind die zentralen Datenstrukturen in Pandas. Series sind wie standardmäßige Listen in Python, mit dem wichtigen Unterschied, dass Series nur Werte eines einzelnen Datentyps enthalten können.
-import pandas as pd x = pd.Series([34, 12, 23, 45]) print(x) x.dtype    Ein Datentyp ist die grundlegende Einheit, in der einzelne Werte in einer Programmiersprache vom Computer gespeichert und verarbeitet werden können. Beispiele für Datentypen in pandas sind: float für Gleitkommazahlen, int für Ganzzahlen, bool für binäre True, False Werte oder datetime für Datumswerte.</description>
+      <guid>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/basics/pandas/series/index.html</guid>
+      <description>Series und DataFrames sind die zentralen Datenstrukturen in Pandas. Series sind wie standardmäßige Listen in Python, mit dem wichtigen Unterschied, dass Series nur Werte eines einzelnen Datentyps enthalten können.&#xA;import pandas as pd x = pd.Series([34, 12, 23, 45]) print(x) x.dtype Ein Datentyp ist die grundlegende Einheit, in der einzelne Werte in einer Programmiersprache vom Computer gespeichert und verarbeitet werden können. Beispiele für Datentypen in pandas sind: float für Gleitkommazahlen, int für Ganzzahlen, bool für binäre True, False Werte oder datetime für Datumswerte. Text wird im pandas-spezifischen Format object abgespeichert. Für einen DataFrame der beispielsweise in einer Variable mit dem Namen df gepeichert ist, kannst Du Dir die Datentypen jeder Spalte mit df.dtypes ausgeben lassen.</description>
     </item>
-    
     <item>
       <title>Ein- und Ausgabe</title>
-      <link>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/basics/pandas/io/</link>
+      <link>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/basics/pandas/io/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/basics/pandas/io/</guid>
-      <description>Die Funktionen zur Ein- und Ausgabe von Daten in pandas sind umfangreich aber systematisch organisiert. Um beispielsweise eine .csv Datei einzulesen und in einer Variable zu speichern verwendet man die Funktion read_csv:
-import pandas as pd df = pd.read_csv(&amp;#34;../data/Library_Usage.csv&amp;#34;) df.head()    Um einen eingelesenen Datensatz beispielsweise im .json Textformat zu speichern verwendet man die Funktion to_json:
-df.to_json(&amp;#34;../data/Library_Usage.json&amp;#34;)     Manche Funktion aus dem pandas Paket sind statische Funktionen: Sie sind an kein konkretes Objekt gebunden, sondern werden über den Bibliotheksnamen pd aufgerufen.</description>
+      <guid>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/basics/pandas/io/index.html</guid>
+      <description>Die Funktionen zur Ein- und Ausgabe von Daten in pandas sind umfangreich aber systematisch organisiert. Um beispielsweise eine .csv Datei einzulesen und in einer Variable zu speichern verwendet man die Funktion read_csv:&#xA;import pandas as pd df = pd.read_csv(&#34;../data/Library_Usage.csv&#34;) df.head() Um einen eingelesenen Datensatz beispielsweise im .json Textformat zu speichern verwendet man die Funktion to_json:&#xA;df.to_json(&#34;../data/Library_Usage.json&#34;) Manche Funktion aus dem pandas Paket sind statische Funktionen: Sie sind an kein konkretes Objekt gebunden, sondern werden über den Bibliotheksnamen pd aufgerufen. Beispiele: pd.read_csv, pd.to_numeric, pd.crosstab. Andere Funktionen sind an ein bestimmtes Objekt, welches mit einer Variable referenziert wird, gebunden. In der Regel ist dies ein DataFrame oder eine Series. Beispiele: df.to_csv, df.corr, df.head, x.mean. Mache Dich mit dem Unterschied vertraut: Was bedeuten pd und df und x in den Beispielen? Exkurs: Einlesen von Daten Die Festplatte des Computers dient zur persistenten Speicherung von Dateien. Auch wenn der Strom weg ist, bleiben diese darauf erhalten. Die hohe Speicherfähigkeit hat ihren Preis: Die Zugriffszeiten, d.h. die Zeit die die Festplatte benötigt um z.B. Zeilen einer Textdatei zu lesen und die Werte an den Prozessor zu übergeben, sind hoch.</description>
     </item>
-    
     <item>
       <title>Auswahl und Erstellung von Spalten</title>
-      <link>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/basics/pandas/columns/</link>
+      <link>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/basics/pandas/columns/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/basics/pandas/columns/</guid>
-      <description>Die Spalten eines DataFrames werden über einen Spaltenindex referenziert. Üblicherweise besteht der Spaltenindex aus Spaltennamen in Textform:
-import pandas as pd df = pd.read_csv(&amp;#34;../data/Library_Usage.csv&amp;#34;) df.columns    Einzelne Series können wie bei einem Python Dictionary mit df[&amp;lt;name&amp;gt;] extrahiert werden. Mehre Spalten mit df[[&amp;lt;name1&amp;gt;, &amp;lt;name2]]. Wenn Du Spalten mit der doppelten Liste [[...]] auswählst, erhältst Du in jedem Fall wieder einen DataFrame zurück. Das Ergebnis der Auswahl kannst Du bei Bedarf wieder in einer Variablen abspeichern:</description>
+      <guid>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/basics/pandas/columns/index.html</guid>
+      <description>Die Spalten eines DataFrames werden über einen Spaltenindex referenziert. Üblicherweise besteht der Spaltenindex aus Spaltennamen in Textform:&#xA;import pandas as pd df = pd.read_csv(&#34;../data/Library_Usage.csv&#34;,low_memory=False) df.columns Einzelne Series können wie bei einem Python Dictionary mit df[&lt;name&gt;] extrahiert werden. Mehre Spalten mit df[[&lt;name1&gt;, &lt;name2]]. Wenn Du Spalten mit der doppelten Liste [[...]] auswählst, erhältst Du in jedem Fall wieder einen DataFrame zurück. Das Ergebnis der Auswahl kannst Du bei Bedarf wieder in einer Variablen abspeichern:</description>
     </item>
-    
     <item>
       <title>Auswahl von Zeilen</title>
-      <link>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/basics/pandas/rows/</link>
+      <link>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/basics/pandas/rows/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/basics/pandas/rows/</guid>
-      <description>Die Zeilen eines DataFrames können über drei verschiedene Arten ausgewählt werden. Das System kann am Anfang etwas verwirrend sein. Wir betrachten hier nur den wichtigsten Fall der Zeilenauswahl: Die Auswahl über logische Ausdrücke mittels loc[]:
-import pandas as pd df = pd.read_csv(&amp;#34;../data/Library_Usage.csv&amp;#34;) df.loc[df[&amp;#39;Total Checkouts&amp;#39;] &amp;gt; 10000]    Der Ausdruck df[&#39;Total Checkouts&#39;] &amp;gt; 10000 wird zuerst ausgewertet und ergibt eine boolesche Series mit Einträgen True wenn die Beobachtung mehr als 1000 Ausleihen getätigt hat und False sonst.</description>
+      <guid>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/basics/pandas/rows/index.html</guid>
+      <description>Die Zeilen eines DataFrames können über drei verschiedene Arten ausgewählt werden. Das System kann am Anfang etwas verwirrend sein. Wir betrachten hier nur den wichtigsten Fall der Zeilenauswahl: Die Auswahl über logische Ausdrücke mittels loc[]:&#xA;import pandas as pd df = pd.read_csv(&#34;../data/Library_Usage.csv&#34;,low_memory=False) df.loc[df[&#39;Total Checkouts&#39;] &gt; 10000] Der Ausdruck df[&#39;Total Checkouts&#39;] &gt; 10000 wird zuerst ausgewertet und ergibt eine boolesche Series mit Einträgen True wenn die Beobachtung mehr als 1000 Ausleihen getätigt hat und False sonst.</description>
     </item>
-    
     <item>
       <title>Exkurs: Fehlende Werte</title>
-      <link>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/basics/pandas/na/</link>
+      <link>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/basics/pandas/na/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/basics/pandas/na/</guid>
-      <description>Real erhobene Daten sind meistens unsauber und fehlerhaft. Ein häufiges Problem dabei sind fehlende Werte, also Beobachtungen für die manche Merkmale nicht erhoben wurden. In jedem Datensatz werden fehlende Werte anders gekennzeichnet, aber man findet oft diese Kodierungen wieder: &amp;quot;-999&amp;quot;, &amp;quot;NA&amp;quot;, &amp;quot; &amp;quot;, &amp;quot;None&amp;quot;, &amp;quot;NULL&amp;quot;, &amp;quot;#N/A&amp;quot;.
-Wenn beispielsweise der Mittelwert einer statistischen Variable berechnet wird, so muss entschieden werden, wie mit fehlenden Werten umgegangen werden soll: Sollen die Werte entfernt werden?</description>
+      <guid>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/basics/pandas/na/index.html</guid>
+      <description>Real erhobene Daten sind meistens unsauber und fehlerhaft. Ein häufiges Problem dabei sind fehlende Werte, also Beobachtungen für die manche Merkmale nicht erhoben wurden. In jedem Datensatz werden fehlende Werte anders gekennzeichnet, aber man findet oft diese Kodierungen wieder: &#34;-999&#34;, &#34;NA&#34;, &#34; &#34;, &#34;None&#34;, &#34;NULL&#34;, &#34;#N/A&#34;.&#xA;Wenn beispielsweise der Mittelwert einer statistischen Variable berechnet wird, so muss entschieden werden, wie mit fehlenden Werten umgegangen werden soll: Sollen die Werte entfernt werden? Sollen die fehlenden Werte durch einen bestimmten Wert ersetzt werden?</description>
     </item>
-    
     <item>
       <title>Nützliche Funktionen in Pandas</title>
-      <link>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/basics/pandas/functions/</link>
+      <link>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/basics/pandas/functions/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/basics/pandas/functions/</guid>
-      <description>Mit df.head() kannst Du Dir die ersten $n$ Zeilen eines DataFrames anzeigen lassen:
-import pandas as pd df = pd.read_csv(&amp;#34;../data/Library_Usage.csv&amp;#34;) df.head()    Analog dazu funktioniert die Funktion df.tail().
-2.9 Pandas Funktionen (5 Min) Schau Dir die Dokumentation für die Funktion head() hier an. Wie kannst Du Dir die ersten $100$ Zeilen anzeigen lassen?
-  Mit df.info() erhältst Du speicherbezogene Informationen über das Objekt. Mit df.describe() werden nützliche deskriptive Statistiken für alle numerischen Spalten eines Datensatzes ausgegeben.</description>
+      <guid>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/basics/pandas/functions/index.html</guid>
+      <description>Mit df.head() kannst Du Dir die ersten $n$ Zeilen eines DataFrames anzeigen lassen:&#xA;import pandas as pd df = pd.read_csv(&#34;../data/Library_Usage.csv&#34;,low_memory=False) df.head() Analog dazu funktioniert die Funktion df.tail().&#xA;2.9 Pandas Funktionen (5 Min) Schau Dir die Dokumentation für die Funktion head() hier an. Wie kannst Du Dir die ersten $100$ Zeilen anzeigen lassen?&#xA;Mit df.info() erhältst Du speicherbezogene Informationen über das Objekt. Mit df.describe() werden nützliche deskriptive Statistiken für alle numerischen Spalten eines Datensatzes ausgegeben. Um alle Spalten miteinzubeziehen nutze das Funktionsargument include=&#39;all&#39;:</description>
     </item>
-    
   </channel>
 </rss>

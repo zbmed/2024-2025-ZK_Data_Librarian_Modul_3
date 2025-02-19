@@ -1,58 +1,60 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kursorganisation und Vorbereitungen on Zertifikatskurs Data Librarian - Modul 3 - Daten analysieren und darstellen</title>
-    <link>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/organisation/</link>
-    <description>Recent content in Kursorganisation und Vorbereitungen on Zertifikatskurs Data Librarian - Modul 3 - Daten analysieren und darstellen</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>de-DE</language><atom:link href="https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/organisation/index.xml" rel="self" type="application/rss+xml" />
+    <title>Kursorganisation und Vorbereitungen :: Zertifikatskurs Data Librarian - Modul 3 - Daten analysieren und darstellen</title>
+    <link>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/organisation/index.html</link>
+    <description>Kursorganisation und Vorbereitungen Diese Einheit gibt einen Überblick über die Kursinhalte, wichtige Termine und die benötigte Software und Python-Pakete. Viele der hier besprochenen Dinge werden Dir schon bekannt vorkommen und die Software hast Du schon für die vorherigen Module auf Deinem Rechner installiert.&#xA;Ziele Überblick über das gesamte Modul (Kurseinheiten, Termine) Anpassung des eigenen Git-Repositoriums für das Arbeiten mit einem offenen Datensatz der San Francisco Library Erinnerung: Installation von Anaconda mit Python 3.12.* auf Deinem Rechner Erinnerung: Installation bzw. Nutzung von Jupyter Notebooks auf Deinem Rechner Überblick über verschiedene Python Pakete und Bibliotheken Einordnung der Begriffe Statistik, Data Science und Machine Learning Zum schnellen Nachschlagen: Unsere Python-Kurzreferenz oder dieses Cheat-Sheet gibt einen guten Überblick über die wichtigsten Befehle in Python.</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <atom:link href="http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/organisation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kursorganisation</title>
-      <link>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/organisation/modules/</link>
+      <link>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/organisation/modules/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/organisation/modules/</guid>
-      <description>Wir haben das Modul in mehrere Einheiten unterteilt. Du kannst Dir die Zeit für die Bearbeitung der Einheiten selber aufteilen, der vorgeschlagene Zeitplan dient der eigenen Orientierung. Einzelne Aufgabestellungen sind terminiert, damit Du (und die anderen Teilnehmenden) Chance auf ein Feedback haben.
-Du findest in den Einheiten verschiedene Aufgaben mit unterschiedlichem Schwierigkeitsgrad, sowie zu Beginn einiger Einheiten praktische Projektaufgaben. Wenn Du mit einer Aufgabe nicht weiterkommen oder zu viel Zeit aufwenden musst, kannst Du diese jederzeit per Mail oder Chat mit den Betreuern besprechen oder zur Besprechung am Präsenztag bereithalten.</description>
+      <guid>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/organisation/modules/index.html</guid>
+      <description>Wir haben das Modul in mehrere Einheiten unterteilt. Du kannst Dir die Zeit für die Bearbeitung der Einheiten selber aufteilen, der vorgeschlagene Zeitplan dient der eigenen Orientierung. Einzelne Aufgabestellungen sind terminiert, damit Du (und die anderen Teilnehmenden) Chance auf ein Feedback haben.&#xA;Du findest in den Einheiten verschiedene Aufgaben mit unterschiedlichem Schwierigkeitsgrad, sowie zu Beginn einiger Einheiten praktische Projektaufgaben. Wenn Du mit einer Aufgabe nicht weiterkommen oder zu viel Zeit aufwenden musst, kannst Du diese jederzeit per Mail oder Chat mit den Betreuern besprechen oder zur Besprechung am Präsenztag bereithalten. Zu den meisten Aufgaben finden sich am Ende der jeweiligen Einheit Musterlösungen. Die Projektaufgaben fassen die Inhalte der jeweiligen Einheit in einer alltagsnahen Aufgabenstellung zusammen und sollten nach Bearbeitung der jeweiligen Einheit machbar sein. Bei den Aufgaben und Projektaufgaben, die mit einer Abgabefrist versehen sind, hast Du die Möglichkeit ein Feedback zu erhalten. Die anderen Aufgaben und Projektaufgaben sind für Dein Selbststudium konzipiert.</description>
     </item>
-    
     <item>
       <title>Termine und Kurseinheiten</title>
-      <link>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/organisation/schedule/</link>
+      <link>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/organisation/schedule/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/organisation/schedule/</guid>
-      <description>Hier findest Du einen Überblick über die einzelnen Moduleinheiten.
-   Datum Titel Ziele      1. Kursorganisation und Vorbereitungen Überblick über das gesamte Modul (Kurseinheiten, Termine) Anpassung des eigenen Git-Repositoriums für das Arbeiten mit einem offenen Datensatz der San Francisco Library Erinnerung: Installation von Anaconda mit Python auf Deinem Rechner Erinnerung: Installation bzw. Nutzung von Jupyter Notebooks auf Deinem Rechner Überblick über verschiedene Python Pakete und Bibliotheken   27.</description>
+      <guid>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/organisation/schedule/index.html</guid>
+      <description>Hier findest Du einen Überblick über die einzelnen Moduleinheiten.&#xA;Datum Titel Ziele 1. Kursorganisation und Vorbereitungen Überblick über das gesamte Modul (Kurseinheiten, Termine) Anpassung des eigenen Git-Repositoriums für das Arbeiten mit einem offenen Datensatz der San Francisco Library Erinnerung: Installation von Anaconda mit Python auf Deinem Rechner Erinnerung: Installation bzw. Nutzung von Jupyter Notebooks auf Deinem Rechner Überblick über verschiedene Python Pakete und Bibliotheken 27.01.2025 Virtueller Modulauftakt (17:00-18:00 Uhr) Kurze Vorstellungsrunde und Überblick über die Modulinhalte 27.01.2025 – 02.02.2025 2. Grundbegriffe der Statistik und Einführung in Pandas Kenntnisse des statistischen Grundvokabulars und Anwendung auf die Beschreibung eines Datensatzes Ein- und Auslesen von Datensätzen als DataFrames in Python Filtern von DataFrames nach Spalten oder Zeilen Erstellung neuer Variablen 02.02.2025 Abgabetermin Aufgabe 2.10 Beschreibung eigener Datenprojekte 03.02.2025 – 16.02.2025 3. Deskriptive Statistik und Visualisierung Berechne grundlegende Lage- und Streuungsmaße Bereche Statistiken für bivariate Verteilungen Erstelle einfache Visualisierungen 4. Exkurs: Inferenzstatistik (freiwillige Vertiefung) Durchführung eines Zwei-Stichproben Mittelwerttests 13.02.2025 Virtuelle Fragestunde (16:00-17:00 Uhr) Kläre Deine Fragen mit den Betreuern 17.02.2025 – 23.02.2025 5. Maschinelles Lernen - Grundlagen / 6. Maschinelles Lernen - Praxis mit scikit-learn Führe Regression, Klassifikation und Dimensionreduktion mit scikit-learn durch 24.02.2025 – 02.03.2025 7. Machinelles Lernen - Automatische Textanalyse / Textmining-Grundlagen Führe eine Textanalyse durch Formuliere einfache quantitative Fragen für den Projekttag als Exposé (max. 1 Seite Text) 02.03.2025 Abgabetermin Projektaufgabe Deskriptive Statistik Praktische Anwendung der Inhalte des ersten Teil des Moduls 07.03.2025 virtueller Präsenztag (10-16 Uhr) Nimm an der Frage und Antwortrunde teil Finde geeignete Daten zum Lösen der Fragen Beantworte Deine Frage mit den gelernten statistischen Tools Bereite die Ergebnisse in Form einer Visualisierung auf Stelle die Ergebnisse in einer Kurzpräsentation in Deiner Gruppe vor (&lt; 5 Minuten)</description>
     </item>
-    
     <item>
       <title>Projektordner und Datensatz</title>
-      <link>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/organisation/dataset/</link>
+      <link>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/organisation/dataset/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/organisation/dataset/</guid>
-      <description>Im gesamten Modul werden wir wieder mit Git arbeiten. Darüber hinaus werden wir mit einem offenen Kundendatensatz der öffentlichen Bibliothek in San Francisco arbeiten. Führe daher die unteren Anpassungen durch.
-1.1. Anlegen eines Projektordners und Nutzung von Git (15 Min)  Im Modul 1 hast Du ein Git Repositorium erstellt und GitHub gespiegelt. Bitte erstelle in diesem Repositorium einen Ordner mit dem Namen Modul_3. Dieser Ordner wird Dein Projektordner für dieses Modul.</description>
+      <guid>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/organisation/dataset/index.html</guid>
+      <description>Im gesamten Modul werden wir wieder mit Git arbeiten. Darüber hinaus werden wir mit einem offenen Kundendatensatz der öffentlichen Bibliothek in San Francisco arbeiten. Führe daher die unteren Anpassungen durch.&#xA;1.1. Anlegen eines Projektordners und Nutzung von Git (15 Min) Im Modul 1 hast Du ein Git Repositorium erstellt und GitHub gespiegelt. Bitte erstelle in diesem Repositorium einen Ordner mit dem Namen Modul_3. Dieser Ordner wird Dein Projektordner für dieses Modul. Dort legst Du alle Datensätze und Jupyter Notebooks ab. Erstelle einen Unterordner ./data/ und einen Unterordner ./notebooks/ innerhalb Deines Projektordners. Füge die Dateien auch in das Git-Repositorium hinzu (kleine Erinnerung git add und git commit -m &#34;Erläuterung&#34;, große Erinnerung). Im ersten Teil des Moduls werden wir einen offenen Kundendatensatz der öffentlichen Bibliothek in San Francisco analysieren.</description>
     </item>
-    
+    <item>
+      <title>Recap Python-Grundlagen</title>
+      <link>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/organisation/recap_python/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/organisation/recap_python/index.html</guid>
+      <description>Im Folgenden findest Du Informationen zum Nachschlagen und Auffrischen Deiner Python-Kenntnisse und eine Übersicht über nützliche Python-BIbliotheken.</description>
+    </item>
+    <item>
+      <title>Einordnung: Statistik, Data Science und Machine Learning</title>
+      <link>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/organisation/ml/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/organisation/ml/index.html</guid>
+      <description>Seit einigen Jahren sind Data Science und Machine Learning zu alltäglichen Begriffen geworden. Studiengänge im Bereich Data Science werden neu eingerichtet oder schon bestehende Abschlüsse umbenannt. Anwendungen des Maschinellen Lernens sind Thema in Massenmedien. Der Zertifikatskurs Data Librarian spiegelt diese Popularität wider.&#xA;Um die Zusammenhänge zwischen den Fachgebieten besser zu verstehen, wird im Folgenden ein kurzer Überblick über die Begriffe gegeben. Für Interessierte gibt es Verweise zu weiteren Quellen.</description>
+    </item>
     <item>
       <title>Recap: Quiz</title>
-      <link>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/organisation/quiz_intro/</link>
+      <link>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/organisation/quiz_intro/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/organisation/quiz_intro/</guid>
-      <description>.quiz fieldset { border-color: black; border-width: 10px; margin-bottom: 1em; } .quiz legend { font-size: 105%; font-weight: 600; padding-left: 15px; padding-right: 15px; padding-top: 15px; } .quiz label { display: block; line-height: 1.75em; } .quiz input[type=&#34;radio&#34;] { margin-right: 10px; page-break-after: avoid; page-break-before: avoid; } .quiz input[type=&#34;submit&#34;] { background: black; color: white; display: block; font-size: 120%; font-weight: 600; height: 2.5em; margin-top: 2em; text-transform: uppercase; width: 100%; } .quiz table { color: white; font-weight: bold; margin: 1em auto 2em auto; width: 100%; } .</description>
+      <guid>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/organisation/quiz_intro/index.html</guid>
+      <description></description>
     </item>
-    
     <item>
       <title>Musterlösungen</title>
-      <link>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/organisation/solutions/</link>
+      <link>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/organisation/solutions/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/organisation/solutions/</guid>
-      <description>1. Kursorganisation und Vorbereitung Quiz  Strg+Enter siehe hier: https://docs.anaconda.com/anaconda/packages/pkg-docs/ 423448, len(df) siehe (unter sns.set()): https://seaborn.pydata.org/introduction.html  </description>
+      <guid>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/organisation/solutions/index.html</guid>
+      <description>1. Kursorganisation und Vorbereitung Quiz Strg+Enter 450359, len(df) siehe (unter sns.set_theme()): https://seaborn.pydata.org/introduction.html</description>
     </item>
-    
   </channel>
 </rss>
