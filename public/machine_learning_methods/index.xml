@@ -1,63 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Machinelles Lernen - Praxis mit scikit-learn on Zertifikatskurs Data Librarian - Modul 3 - Daten analysieren und darstellen</title>
-    <link>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/machine_learning_methods/</link>
-    <description>Recent content in Machinelles Lernen - Praxis mit scikit-learn on Zertifikatskurs Data Librarian - Modul 3 - Daten analysieren und darstellen</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>de-DE</language><atom:link href="https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/machine_learning_methods/index.xml" rel="self" type="application/rss+xml" />
+    <title>Machinelles Lernen - Praxis mit scikit-learn :: Zertifikatskurs Data Librarian - Modul 3 - Daten analysieren und darstellen</title>
+    <link>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/machine_learning_methods/index.html</link>
+    <description>24.02.2025 – 02.03.2025 Machinelles Lernen - Praxis mit scikit-learn Zielsetzung Nachdem wir uns letzte Woche ein theoretisches Fundament zum maschinellen Lernen erarbeitet haben, möchten wir in dieser Woche praktisch mit der Python-Library scikit-learn maschinelle Lernverfahren anwenden. Auch hier ist das Ziel ein grundsätzliches Verständnis ohne viele Detail. Die Library scikit-learn biete ein sehr schönes konsistentes Interface zu verschiedenen Verfahren und Hauptziel ist es hierfür ein Gefühl zu erlangen. Die in der letzte Wochen angesprochenen Themen wie Feature-Skalierung und Cross-Validation werden zum Beispiel nicht durchführen.</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <atom:link href="http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/machine_learning_methods/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Klassifikation</title>
-      <link>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/machine_learning_methods/classification/</link>
+      <link>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/machine_learning_methods/classification/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/machine_learning_methods/classification/</guid>
-      <description>Bitte erstell ein neues Jupyter-Notebook und nennen es Klassifikation.
-Wir nutzen ein Datenset, das handschriftliche Ziffern in Form von 8x8 Feldern mit Werten der Farbstärkte darstellt. Eine Beschreibung des Datensets gib es bei scikit-learn und im UC Irvine Machine Learning Repository. Dieses Datenset bringt scikit-learn selber mit.
-Wir importieren eine Funktion zum Laden des Datensets und rufen dieses auf.
-from sklearn.datasets import load_digits digits = load_digits()    Die Daten und Metadaten sind in einem sogenannten Bunch-Objekt organisiert</description>
+      <guid>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/machine_learning_methods/classification/index.html</guid>
+      <description>Bitte erstell ein neues Jupyter-Notebook und nennen es Klassifikation.&#xA;Wir nutzen ein Datenset, das handschriftliche Ziffern in Form von 8x8 Feldern mit Werten der Farbstärkte darstellt. Eine Beschreibung des Datensets gib es bei scikit-learn und im UC Irvine Machine Learning Repository. Dieses Datenset bringt scikit-learn selber mit.&#xA;Wir importieren eine Funktion zum Laden des Datensets und rufen dieses auf.&#xA;from sklearn.datasets import load_digits digits = load_digits() Die Daten und Metadaten sind in einem sogenannten Bunch-Objekt organisiert</description>
     </item>
-    
     <item>
       <title>Regression</title>
-      <link>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/machine_learning_methods/regression/</link>
+      <link>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/machine_learning_methods/regression/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/machine_learning_methods/regression/</guid>
-      <description>Bitte erstell ein neues Jupyter-Notebook und nennen esRegression.
-Hier führen wir eine einfache Regression von zwei Features (also in zwei Dimensionen durch), da dies sich leichter visualisieren lässt. Tatsächlich ist man aber in der Anzahl an Features nicht eingeschränkt. Ziel ist es ein Regression-Model zu erstellen, in dem man einen numerischen Eingabe-Wert (x) eingibt und einen numerischen Ausgabe-Wert (y) erhält.
-Wir erzeugen und ein künstlichen Datenset von 500 Datenpunkten mit Hilfe der Funktion make_regression.</description>
+      <guid>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/machine_learning_methods/regression/index.html</guid>
+      <description>Bitte erstell ein neues Jupyter-Notebook und nennen esRegression.&#xA;Hier führen wir eine einfache Regression von zwei Features (also in zwei Dimensionen durch), da dies sich leichter visualisieren lässt. Tatsächlich ist man aber in der Anzahl an Features nicht eingeschränkt. Ziel ist es ein Regression-Model zu erstellen, in dem man einen numerischen Eingabe-Wert (x) eingibt und einen numerischen Ausgabe-Wert (y) erhält.&#xA;Wir erzeugen und ein künstlichen Datenset von 500 Datenpunkten mit Hilfe der Funktion make_regression. Mit dem Parameter noise können wir angeben, wie verauscht die Daten sein sollen.</description>
     </item>
-    
     <item>
       <title>Dimensionsreduktion</title>
-      <link>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/machine_learning_methods/dimension_reduction/</link>
+      <link>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/machine_learning_methods/dimension_reduction/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/machine_learning_methods/dimension_reduction/</guid>
-      <description>Bitte erstelle ein neues Jupyter-Notebook und nennen es Dimensionsreduktion.
-Wir laden das Datenset:
-from sklearn.datasets import load_digits digits = load_digits()    Wir wollen mit einer Pricinple Component Analysis (PCA) die Dimensionreduktion durchführen. Hierzu laden wir zuerst die Klasse und erzeugen eine Instanz davon. Wir geben an, dass wir danach nur zwei Dimensionen (&amp;ldquo;components&amp;rdquo;) erhalten möchten. Dadurch lassen sie die Daten später auf in einem Plot mit zwei Achsen abbilden.</description>
+      <guid>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/machine_learning_methods/dimension_reduction/index.html</guid>
+      <description>Bitte erstelle ein neues Jupyter-Notebook und nennen es Dimensionsreduktion.&#xA;Wir laden das Datenset:&#xA;from sklearn.datasets import load_digits digits = load_digits() Wir wollen mit einer Pricinple Component Analysis (PCA) die Dimensionreduktion durchführen. Hierzu laden wir zuerst die Klasse und erzeugen eine Instanz davon. Wir geben an, dass wir danach nur zwei Dimensionen (“components”) erhalten möchten. Dadurch lassen sie die Daten später auf in einem Plot mit zwei Achsen abbilden.&#xA;from sklearn.decomposition import PCA pca = PCA(random_state=1, n_components=2) Wir können die Tranformation mit der Funktion fit_transform durchführen.</description>
     </item>
-    
     <item>
       <title>Quiz</title>
-      <link>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/machine_learning_methods/quiz/</link>
+      <link>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/machine_learning_methods/quiz/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/machine_learning_methods/quiz/</guid>
-      <description>.quiz fieldset { border-color: black; border-width: 10px; margin-bottom: 1em; } .quiz legend { font-size: 105%; font-weight: 600; padding-left: 15px; padding-right: 15px; padding-top: 15px; } .quiz label { display: block; line-height: 1.75em; } .quiz input[type=&#34;radio&#34;] { margin-right: 10px; page-break-after: avoid; page-break-before: avoid; } .quiz input[type=&#34;submit&#34;] { background: black; color: white; display: block; font-size: 120%; font-weight: 600; height: 2.5em; margin-top: 2em; text-transform: uppercase; width: 100%; } .quiz table { color: white; font-weight: bold; margin: 1em auto 2em auto; width: 100%; } .</description>
+      <guid>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/machine_learning_methods/quiz/index.html</guid>
+      <description></description>
     </item>
-    
     <item>
       <title>Musterlösungen</title>
-      <link>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/machine_learning_methods/solutions/</link>
+      <link>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/machine_learning_methods/solutions/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/machine_learning_methods/solutions/</guid>
-      <description>Hier die Jupyter Notebooks mit Musterlösungen (ablegen mit &amp;ldquo;Speichern unter&amp;rdquo;):
- Klassifikation Regression Dimensionsreduktion  </description>
+      <guid>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/machine_learning_methods/solutions/index.html</guid>
+      <description>Hier die Jupyter Notebooks mit Musterlösungen (ablegen mit “Speichern unter”):&#xA;Klassifikation Regression Dimensionsreduktion</description>
     </item>
-    
   </channel>
 </rss>

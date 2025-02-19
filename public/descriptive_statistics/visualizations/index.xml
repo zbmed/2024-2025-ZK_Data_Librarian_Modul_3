@@ -1,31 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Visualisierungen mit Seaborn on Zertifikatskurs Data Librarian - Modul 3 - Daten analysieren und darstellen</title>
-    <link>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/descriptive_statistics/visualizations/</link>
-    <description>Recent content in Visualisierungen mit Seaborn on Zertifikatskurs Data Librarian - Modul 3 - Daten analysieren und darstellen</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>de-DE</language><atom:link href="https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/descriptive_statistics/visualizations/index.xml" rel="self" type="application/rss+xml" />
+    <title>Visualisierungen mit Seaborn :: Zertifikatskurs Data Librarian - Modul 3 - Daten analysieren und darstellen</title>
+    <link>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/descriptive_statistics/visualizations/index.html</link>
+    <description>Im folgenden Abschnitt wird ein Überblick über verschiedene Visualisierungsformen gegeben und anhand von Beispielen gezeigt, wie diese in Python mit der Bibliothek seaborn programmiert werden können.&#xA;Das Thema Visualisierungen ist komplex: Es gibt sehr viele Parameter und Stellschrauben, die man auswendig lernen oder in den Dokumentationen der Bibliotheken pandas, seaborn und matplotlib Nachschlagen muss. Die Erstellung von eindrucksvollen und aussagekräftigen Graphiken erfordert viel Praxiserfahrung, Zeit und Mühe. Die Einführungsseite von seaborn ist sehr hilfreich um eine erste Eindruck zu gewinne.</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <atom:link href="http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/descriptive_statistics/visualizations/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tutorial</title>
-      <link>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/descriptive_statistics/visualizations/tutorial/</link>
+      <link>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/descriptive_statistics/visualizations/tutorial/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/descriptive_statistics/visualizations/tutorial/</guid>
-      <description>Statistical analysis is a process of understanding how variables in a dataset relate to each other and how those relationships depend on other variables. Visualization can be a core component of this process because, when data are visualized properly, the human visual system can see trends and patterns that indicate a relationship. https://seaborn.pydata.org/tutorial/relational.html
- Die zahlreichen Funktionen, die seaborn bietet basieren immer auf dem gleichen Prinzip. Visualisiert werden (nominale, ordinale, metrische) Variablen eines Datensatzes, die in Form eines DataFrames vorliegen.</description>
+      <guid>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/descriptive_statistics/visualizations/tutorial/index.html</guid>
+      <description>Statistical analysis is a process of understanding how variables in a dataset relate to each other and how those relationships depend on other variables. Visualization can be a core component of this process because, when data are visualized properly, the human visual system can see trends and patterns that indicate a relationship. https://seaborn.pydata.org/tutorial/relational.html&#xA;Die zahlreichen Funktionen, die seaborn bietet basieren immer auf dem gleichen Prinzip. Visualisiert werden (nominale, ordinale, metrische) Variablen eines Datensatzes, die in Form eines DataFrames vorliegen. Das Skalenniveau der Variablen bestimmt dabei die Art der Visualisierung. Variablen können verschiedenen Eigenschaften des Diagramms zugeordnet werden (z.B. die Punktgröße oder Farbe der Balken). Am besten lässt sich das Prinzip an einem Beispiel erkennen.</description>
     </item>
-    
     <item>
       <title>Weitere Beispiele</title>
-      <link>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/descriptive_statistics/visualizations/examples/</link>
+      <link>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/descriptive_statistics/visualizations/examples/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/descriptive_statistics/visualizations/examples/</guid>
-      <description>Im Tutorial hast Du gesehen, wie Du ein Streudiagramm erstellen kannst. Hier werden exemplarisch weitere Möglichkeiten gezeigt, die Daten des Datensatzes zu visualisieren. Die wichtigste Funktion ist hierbei sns.catplot().
-import pandas as pd import seaborn as sns import matplotlib.pyplot as plt import numpy as np # matplotlib inline sns.set() df = pd.read_csv(&amp;#34;../data/Library_Usage.csv&amp;#34;) Nominale und ordinale Variablen Univariate Häufigkeits- und Bivariate Kreuztatabellen können mit Balkendiagrammen visualisiert werden:
-sns.catplot(y=&amp;#39;Year Patron Registered&amp;#39;, data=df, kind=&amp;#39;count&amp;#39;, color=&amp;#34;steelblue&amp;#34;) sns.</description>
+      <guid>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/descriptive_statistics/visualizations/examples/index.html</guid>
+      <description>Im Tutorial hast Du gesehen, wie Du ein Streudiagramm erstellen kannst. Hier werden exemplarisch weitere Möglichkeiten gezeigt, die Daten des Datensatzes zu visualisieren. Die wichtigste Funktion ist hierbei sns.catplot().&#xA;import pandas as pd import seaborn as sns import matplotlib.pyplot as plt import numpy as np # matplotlib inline sns.set_theme() df = pd.read_csv(&#34;../data/Library_Usage.csv&#34;,low_memory=False,na_values=&#34;Null&#34;) Nominale und ordinale Variablen Univariate Häufigkeits- und Bivariate Kreuztatabellen können mit Balkendiagrammen visualisiert werden:&#xA;sns.catplot(y=&#39;Year Patron Registered&#39;, data=df, kind=&#39;count&#39;, color=&#34;steelblue&#34;) sns.catplot(y=&#39;Age Range&#39;, hue=&#39;Provided Email Address&#39;, data=df, kind=&#39;count&#39;) sns.catplot(x=&#39;Patron Type Definition&#39;, data=df, kind=&#39;count&#39;, col=&#39;Year Patron Registered&#39;, col_wrap=4) Metrische Variablen Univariate Verteilungen werden mit Histogrammen oder Kernel-Dichte Schätzern visualisiert:</description>
     </item>
-    
   </channel>
 </rss>

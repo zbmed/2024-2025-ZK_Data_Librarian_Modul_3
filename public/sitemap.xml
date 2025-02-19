@@ -1,277 +1,210 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/organisation/recap_python/anaconda/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/organisation/recap_python/anaconda/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/descriptive_statistics/univariate/frequency/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/descriptive_statistics/univariate/frequency/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/solutions/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/solutions/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/basics/pandas/series/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/basics/pandas/series/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/organisation/ml/statistic/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/organisation/ml/statistic/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/inference/overview/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/inference/overview/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/basics/pandas/io/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/basics/pandas/io/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/organisation/recap_python/notebooks/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/organisation/recap_python/notebooks/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/organisation/ml/ml/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/organisation/ml/ml/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/basics/pandas/columns/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/basics/pandas/columns/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/organisation/ml/data-science/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/organisation/ml/data-science/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/basics/pandas/rows/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/basics/pandas/rows/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/basics/pandas/na/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/basics/pandas/na/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/organisation/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/organisation/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/basics/pandas/functions/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/basics/pandas/functions/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/organisation/modules/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/organisation/modules/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/organisation/schedule/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/organisation/schedule/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/organisation/dataset/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/organisation/dataset/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/organisation/recap_python/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/organisation/recap_python/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/organisation/recap_python/packages/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/organisation/recap_python/packages/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/organisation/recap_python/packages/numpy/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/organisation/recap_python/packages/numpy/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/organisation/recap_python/packages/pandas/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/organisation/recap_python/packages/pandas/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/organisation/recap_python/packages/matplotlib/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/organisation/recap_python/packages/matplotlib/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/organisation/recap_python/packages/seaborn/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/organisation/recap_python/packages/seaborn/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/organisation/recap_python/packages/scipy/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/organisation/recap_python/packages/scipy/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/organisation/recap_python/packages/scikitlearn/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/organisation/recap_python/packages/scikitlearn/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/basics/basic_terms/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/basics/basic_terms/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/descriptive_statistics/univariate/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/descriptive_statistics/univariate/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/descriptive_statistics/univariate/mean/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/descriptive_statistics/univariate/mean/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/descriptive_statistics/univariate/variance/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/descriptive_statistics/univariate/variance/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/descriptive_statistics/univariate/symmetrie/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/descriptive_statistics/univariate/symmetrie/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/descriptive_statistics/bivariate/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/descriptive_statistics/bivariate/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/descriptive_statistics/bivariate/cross_tables/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/descriptive_statistics/bivariate/cross_tables/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/descriptive_statistics/bivariate/correlation/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/descriptive_statistics/bivariate/correlation/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/organisation/ml/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/organisation/ml/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/basics/pandas/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/basics/pandas/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/basics/reflection/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/basics/reflection/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/descriptive_statistics/visualizations/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/descriptive_statistics/visualizations/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/descriptive_statistics/visualizations/tutorial/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/descriptive_statistics/visualizations/tutorial/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/descriptive_statistics/visualizations/examples/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/descriptive_statistics/visualizations/examples/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/basics/quiz_pandas/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/basics/quiz_pandas/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/descriptive_statistics/quiz_statistics/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/descriptive_statistics/quiz_statistics/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/basics/solutions/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/basics/solutions/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/organisation/quiz_intro/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/organisation/quiz_intro/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/descriptive_statistics/solutions/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/descriptive_statistics/solutions/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/organisation/solutions/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/organisation/solutions/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/machine_learning_basics/quiz_machine_learning_basics/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/machine_learning_basics/quiz_machine_learning_basics/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/inference/bootstrap/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/inference/bootstrap/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/inference/significance/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/inference/significance/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/inference/two-sample-test/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/inference/two-sample-test/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/inference/solutions/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/inference/solutions/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/machine_learning_methods/classification/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/machine_learning_methods/classification/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/basics/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/basics/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/machine_learning_methods/regression/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/machine_learning_methods/regression/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/text_analysis/text_classification/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/text_analysis/text_classification/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/descriptive_statistics/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/descriptive_statistics/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/machine_learning_methods/dimension_reduction/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/machine_learning_methods/dimension_reduction/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/inference/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/inference/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/machine_learning_basics/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/machine_learning_basics/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/machine_learning_methods/quiz/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/machine_learning_methods/quiz/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/text_analysis/quiz/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/text_analysis/quiz/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/machine_learning_methods/solutions/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/machine_learning_methods/solutions/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/text_analysis/solutions/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/text_analysis/solutions/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/machine_learning_methods/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/machine_learning_methods/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/text_analysis/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/text_analysis/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/categories/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/categories/index.html</loc>
   </url>
-  
   <url>
-    <loc>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/tags/</loc>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/data/index.html</loc>
   </url>
-  
+  <url>
+    <loc>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/tags/index.html</loc>
+  </url>
 </urlset>

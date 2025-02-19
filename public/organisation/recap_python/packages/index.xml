@@ -1,75 +1,53 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Python Pakete und Bibliothekten on Zertifikatskurs Data Librarian - Modul 3 - Daten analysieren und darstellen</title>
-    <link>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/organisation/recap_python/packages/</link>
-    <description>Recent content in Python Pakete und Bibliothekten on Zertifikatskurs Data Librarian - Modul 3 - Daten analysieren und darstellen</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>de-DE</language><atom:link href="https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/organisation/recap_python/packages/index.xml" rel="self" type="application/rss+xml" />
+    <title>Python Pakete und Bibliothekten :: Zertifikatskurs Data Librarian - Modul 3 - Daten analysieren und darstellen</title>
+    <link>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/organisation/recap_python/packages/index.html</link>
+    <description>Die folgende Liste gibt einen kurzen Überblick über die wichtigsten Python Bibliotheken, von denen Du manche im Modul näher kennenlernen wirst. Im ersten Teil des Modules werden wir hauptsächlich mit pandas und seaborn arbeiten.&#xA;Programming Recap Module, Paket, Library Ein Python Skript mit der Endung .py wird Modul genannt. Eine Sammlung von Modulen in einem Ordner, wird Paket (package) genannt. Eine Sammlung von Paketen innerhalb eines größeren Projekts wird Bibliothek (library) genannt. Ein framework ist eine große grundlegende Bibliothek, mit einem bestimmten Zweck und mit vielen Paketen, die voneinander abhängen und aufeinander aufbauen. Die Begriffe werden aber nicht einheitlich benutzt und der Übergang ist oft fließend. Kommentare stehen immer hinter dem # Zeichen. Text steht immer in Anführungszeichen, z.B &#34;hallo&#34; oder &#39;hi&#39;. Mit dem import Befehl können externe Bibliotheken mit mehr Funktionalitäten geladen werden. Mit dem Zuweisungsoperator = können Objekte einem Variablennamen oder einem Funktionswert zugeordnet werden, z.B: x = 1, text = &#39;hallo&#39;. Funktionen werden mit runden Klammern aufgerufen und können Funktionsargumente besitzen, z.B. sum([1, 2, 3]). Viele Funktionen sind Bestandteil von Bibliotheken und werden dann wie folgt aufgerufen: &lt;paketname&gt;.&lt;funktionsname&gt;(&lt;funktionsargumente&gt;)</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <atom:link href="http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/organisation/recap_python/packages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>numpy</title>
-      <link>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/organisation/recap_python/packages/numpy/</link>
+      <link>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/organisation/recap_python/packages/numpy/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/organisation/recap_python/packages/numpy/</guid>
-      <description>numpy bietet den array als zentrale Datenstruktur. Mit ihm lassen sich numerische Daten effizient im Arbeitsspeicher (RAM) erstellen, ein- und auslesen, bearbeiten und aggregieren.
-Numpy bietet neben dem array viele Funktionen an, mit denen sich effizient Berechnungen auf diesen durchführen lassen können. Außerdem wird die klassische Matrizenrechnung unterstützt (s. nachfolgendes Beispiel).
-# import the library and give it a shorter name &amp;#39;np&amp;#39; import numpy as np # create 100 randomly distributed numbers X = np.</description>
+      <guid>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/organisation/recap_python/packages/numpy/index.html</guid>
+      <description>Effizientes Handling und Bearbeitung von numerischen Arrays.</description>
     </item>
-    
     <item>
       <title>pandas</title>
-      <link>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/organisation/recap_python/packages/pandas/</link>
+      <link>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/organisation/recap_python/packages/pandas/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/organisation/recap_python/packages/pandas/</guid>
-      <description>pandas baut auf numpy auf und vereinfacht stark die Bearbeitung, Transformation, Aggregation und Zusammenfassung von zweidimensionalen Datensätzen sowie deren Import und Export in Python. Die zentralen Datenstrukturen in pandas sind Series und DataFrame.
-Series sind eindimensionale Listen eines Datentypes, ähnlich wie arrays in numpy. Datentypen können ganzzahlige Zahlen (int), binäre Werte vom Typ true oder false (bool), Strings (str) oder reale Zahlen (float) sein.
-In einem DataFrame werden mehrere Series gleicher Länge spaltenweise zu einer zweidimensionalen Tabelle (wie einer Excel Tabelle) zusammengefasst.</description>
+      <guid>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/organisation/recap_python/packages/pandas/index.html</guid>
+      <description>Bearbeitung, Transformation, Aggregation und Zusammenfassung von Datensätzen. Baut auf numpy auf.</description>
     </item>
-    
     <item>
       <title>matplotlib</title>
-      <link>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/organisation/recap_python/packages/matplotlib/</link>
+      <link>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/organisation/recap_python/packages/matplotlib/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/organisation/recap_python/packages/matplotlib/</guid>
-      <description>matplotlib ist das Standard-Paket zum Erstellen von wissenschaftlichen 2-dimensionalen statischen Graphiken. Die grundlegende Struktur in matplotlib ist figure, eine leere graphische Fläche, die mit Linien, Balken, Punkten, Beschriftungen und Axen befüllt werden kann. Der fertige Plot kann dann in diversen Formaten abgespeichert oder auf dem Bildschirm angezeigt werden.
-# import the package and give it the shorter name &amp;#39;plt&amp;#39; %matplotlib inline import matplotlib.pyplot as plt # create some dummy data x = range(1, 10) # make a simple scatter plot of the data plt.</description>
+      <guid>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/organisation/recap_python/packages/matplotlib/index.html</guid>
+      <description>Bietet 2D Plotting Funktionalitäten.</description>
     </item>
-    
     <item>
       <title>seaborn</title>
-      <link>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/organisation/recap_python/packages/seaborn/</link>
+      <link>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/organisation/recap_python/packages/seaborn/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/organisation/recap_python/packages/seaborn/</guid>
-      <description>seaborn baut auf matplotlib auf und bietet eine Vielzahl von Funktionen, die es erlauben schnell und einfach schöne statistische Visualisierungen zu erstellen. Seaborn ist also keine komplett eigenenständige Graphik-Bibliothek, sondern nutzt intern die Funktionalitäten und Datenstrukturen von matplotlib.
-Eine wichtige Funktion ist die sns.set() Methode. Wenn sie am Anfang eines Python-Scripts ausgeführt wird, wird intern das Design der Plots erheblich verbessert. Alle plots, die nach dem Aufruf der Funktion erstellt werden, sehen viel besser aus.</description>
+      <guid>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/organisation/recap_python/packages/seaborn/index.html</guid>
+      <description>Verbesserung und Weiterentwicklung der matplotlib Bibliothek.</description>
     </item>
-    
     <item>
       <title>scipy</title>
-      <link>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/organisation/recap_python/packages/scipy/</link>
+      <link>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/organisation/recap_python/packages/scipy/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/organisation/recap_python/packages/scipy/</guid>
-      <description>scipy ist fest mit numpy und pandas verbunden und bietet eine Menge an Funktionen und Methoden aus der Mathematik und Statistik an.
-Für uns ist vor allem das Paket scipy.stats Interessant. Mit ihm können Zufallszahlen aus verschiedensten statistischen Verteilungen generiert werden oder auch statistische Tests durchgeführt werden. Hier findest Du einen Überblick über alle Methoden des Pakets.
-Im folgenden Beispiel wird ein Zweistichproben-t-Test an zwei numerischen Listen durchgeführt.
-# import the package stats from the library scipy from scipy import stats # create two numerical arrays x = [12, 10, 11, 13, 14, 10, 13, 13, 22] y = [1, 4, 2, 3, 5, 2, 1, 0, 0, 1, 2] # perform a two sample t-test, to test if the samples have different means stats.</description>
+      <guid>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/organisation/recap_python/packages/scipy/index.html</guid>
+      <description>Funktionen und Methoden aus der Statistik.</description>
     </item>
-    
     <item>
       <title>scitkit-learn</title>
-      <link>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/organisation/recap_python/packages/scikitlearn/</link>
+      <link>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/organisation/recap_python/packages/scikitlearn/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/organisation/recap_python/packages/scikitlearn/</guid>
-      <description>scikit-learn ist eine umfangreiche Bibliothek für maschinelles Lernen in Python. Es bietet eine Vielzahl an verschiedenen Algorithmen, mit denen zum Beispiel Vorhersagen oder Bilderkennung durchgeführt werden können.
-  Faces recognition example using eigenfaces and SVMshttps://scikit-learn.org/stable/auto_examples/applications/plot_face_recognition.html#sphx-glr-auto-examples-applications-plot-face-recognition-py
-  # import the packages import numpy as np from sklearn.linear_model import LinearRegression # create some dummy dependent and independent variable X = np.array([[1, 1], [1, 2], [2, 2], [2, 3]]) y = - 1 * X[:,0] + 2 * X[:,1] # estimate a linear regression and print out the coefficients reg = LinearRegression().</description>
+      <guid>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/organisation/recap_python/packages/scikitlearn/index.html</guid>
+      <description>Bietet Funktionen und Methoden für maschinelles Lernen.</description>
     </item>
-    
   </channel>
 </rss>

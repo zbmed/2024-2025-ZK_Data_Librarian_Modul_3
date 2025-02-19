@@ -1,38 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Machinelles Lernen - Automatische Textanalyse on Zertifikatskurs Data Librarian - Modul 3 - Daten analysieren und darstellen</title>
-    <link>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/text_analysis/</link>
-    <description>Recent content in Machinelles Lernen - Automatische Textanalyse on Zertifikatskurs Data Librarian - Modul 3 - Daten analysieren und darstellen</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>de-DE</language><atom:link href="https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/text_analysis/index.xml" rel="self" type="application/rss+xml" />
+    <title>Machinelles Lernen - Automatische Textanalyse :: Zertifikatskurs Data Librarian - Modul 3 - Daten analysieren und darstellen</title>
+    <link>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/text_analysis/index.html</link>
+    <description>24.02.2025 - 02.03.2025 Machinelles Lernen - Automatische Textanalyse Zielsetzung Final möchte wir mittels maschinellen Lernens Texte automatisch analysieren. Auch hier wollen wir an einem kleinen Beispiel das Verständnis für die Grundlagen und mögliche Anwendungen entwickelt. In dem Beispiel werden wir Texte in Kategorien zuordnen und somit ein kleines automatisches Verschlagwortungswerkzeug erstellen. Dazu bauen wir auf das in der letzte Woche Erlernte zu Klassifizierugsverfahren, aber auch auf einige Punkte aus Modul 2 namentlich Term-Frequency (TF) und und Term frequency inverse document frequency (TFIDF), auf. Für die Implementation greifen wir wieder auf scikit-learn zurück.</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <atom:link href="http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/text_analysis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Text-Klassifikation</title>
-      <link>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/text_analysis/text_classification/</link>
+      <link>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/text_analysis/text_classification/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/text_analysis/text_classification/</guid>
-      <description>Text-Klassifikations-Beispiel Das Beispiel basiert auf einem offenen Datensat von Newsgroup-Nachtrichten und orientiert sich an diesem offiziellen Tutorial von scikit-learn zur Textanalyse.
-Wir nutzen Dokumente von mehreren Newsgroups und trainieren damit einen Classifier, der dann eine Zudordnung von neuen Texten auf eine dieser Gruppen durchführen kann. Sprich die Newsgroups stellen die Klassen/Tags dar, mit denen wir neue Texte klassifizieren. Wie nutzen eine einfachen Bag-of-Word-Ansatz in dem wir (normalisierte) Häufigkeit von Wörtern als Features nutzen.</description>
+      <guid>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/text_analysis/text_classification/index.html</guid>
+      <description>Text-Klassifikations-Beispiel Das Beispiel basiert auf einem offenen Datensat von Newsgroup-Nachtrichten und orientiert sich an diesem offiziellen Tutorial von scikit-learn zur Textanalyse.&#xA;Wir nutzen Dokumente von mehreren Newsgroups und trainieren damit einen Classifier, der dann eine Zudordnung von neuen Texten auf eine dieser Gruppen durchführen kann. Sprich die Newsgroups stellen die Klassen/Tags dar, mit denen wir neue Texte klassifizieren. Wie nutzen einen einfachen Bag-of-Word-Ansatz in dem wir (normalisierte) Häufigkeit von Wörtern als Features nutzen.&#xA;In diesem Fall liegen die Daten noch nicht als Teil von scikit-learn vor, es wird aber eine Funktion angeboten, mit die Daten bezogen werden können.</description>
     </item>
-    
     <item>
       <title>Quiz</title>
-      <link>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/text_analysis/quiz/</link>
+      <link>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/text_analysis/quiz/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/text_analysis/quiz/</guid>
-      <description>.quiz fieldset { border-color: black; border-width: 10px; margin-bottom: 1em; } .quiz legend { font-size: 105%; font-weight: 600; padding-left: 15px; padding-right: 15px; padding-top: 15px; } .quiz label { display: block; line-height: 1.75em; } .quiz input[type=&#34;radio&#34;] { margin-right: 10px; page-break-after: avoid; page-break-before: avoid; } .quiz input[type=&#34;submit&#34;] { background: black; color: white; display: block; font-size: 120%; font-weight: 600; height: 2.5em; margin-top: 2em; text-transform: uppercase; width: 100%; } .quiz table { color: white; font-weight: bold; margin: 1em auto 2em auto; width: 100%; } .</description>
+      <guid>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/text_analysis/quiz/index.html</guid>
+      <description></description>
     </item>
-    
     <item>
       <title>Musterlösungen</title>
-      <link>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/text_analysis/solutions/</link>
+      <link>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/text_analysis/solutions/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/text_analysis/solutions/</guid>
-      <description>Hier ist das Jupyter Notebooks mit der Text-Klassifikation-Musterlösung (ablegen mit &amp;ldquo;Speichern unter&amp;rdquo;).</description>
+      <guid>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/text_analysis/solutions/index.html</guid>
+      <description>Hier ist das Jupyter Notebooks mit der Text-Klassifikation-Musterlösung (ablegen mit “Speichern unter”).</description>
     </item>
-    
   </channel>
 </rss>

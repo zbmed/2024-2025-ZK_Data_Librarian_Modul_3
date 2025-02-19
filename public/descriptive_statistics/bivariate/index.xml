@@ -1,34 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bivariate Verteilungen on Zertifikatskurs Data Librarian - Modul 3 - Daten analysieren und darstellen</title>
-    <link>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/descriptive_statistics/bivariate/</link>
-    <description>Recent content in Bivariate Verteilungen on Zertifikatskurs Data Librarian - Modul 3 - Daten analysieren und darstellen</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>de-DE</language><atom:link href="https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/descriptive_statistics/bivariate/index.xml" rel="self" type="application/rss+xml" />
+    <title>Bivariate Verteilungen :: Zertifikatskurs Data Librarian - Modul 3 - Daten analysieren und darstellen</title>
+    <link>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/descriptive_statistics/bivariate/index.html</link>
+    <description>Bisher haben wir immer nur einzelne Variablen betrachtet, zusammengefasst oder visualisiert. In vielen Fällen ist jedoch der Zusammenhang zwischen zwei Variablen von Interesse.&#xA;Nach diesem Kapitel solltest Du beispielsweise die folgenden Fragen beantworten können:&#xA;Leihen ältere Bibliothekskunden im Schnitt mehr Bücher aus als jüngere? Führen Kunden, die häufiger Ausleihen tätigen, im Schnitt auch häufiger Verlängerungen durch? Nimmt die Anzahl der Ausleihen mit zunehmender Dauer der Mitgliedschaft ab? Zwei Variablen, die keinen Zusammenhang aufweisen, nennt man statistisch unabhängige Variablen. Für zwei metrische Variablen kann man außerdem zwischen einem positiven oder einem negativem Zusammenhang unterscheiden.</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <atom:link href="http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/descriptive_statistics/bivariate/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kreuztabellen</title>
-      <link>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/descriptive_statistics/bivariate/cross_tables/</link>
+      <link>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/descriptive_statistics/bivariate/cross_tables/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/descriptive_statistics/bivariate/cross_tables/</guid>
-      <description>Um zwei ordinale oder nominale Variablen miteinander zu vergleichen, eignen sich Kreuztabellen. Jeder Wert in der Kreuztabelle entspricht der Anzahl der Beobachtungen im Datensatz mit genau dieser Kombination an Merkmalsausprägungen.
-Hier ein Beispiel (mit dem Argument na_values=&amp;quot;none&amp;quot; markiert pandas die &amp;quot;none&amp;quot; Einträge in der Spalte &#39;Notice Preference Definition&#39; als fehlende Werte):
-import pandas as pd df = pd.read_csv( &amp;#34;../data/Library_Usage.csv&amp;#34;, na_values=&amp;#34;none&amp;#34; ) pd.crosstab( df[&amp;#39;Provided Email Address&amp;#39;], df[&amp;#39;Notice Preference Definition&amp;#39;], margins=True )       Notice Preference Definition email phone print all     Provided Email Address       False 95 58362 28569 87026   True 323842 9810 2767 336419   All 323937 68172 31336 423445    Eine Kreuztabelle mit absoluten Werten ist häufig schwer zu interpretieren, wenn die Randverteilungen ungleich verteilt sind.</description>
+      <guid>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/descriptive_statistics/bivariate/cross_tables/index.html</guid>
+      <description>Um zwei ordinale oder nominale Variablen miteinander zu vergleichen, eignen sich Kreuztabellen. Jeder Wert in der Kreuztabelle entspricht der Anzahl der Beobachtungen im Datensatz mit genau dieser Kombination an Merkmalsausprägungen.&#xA;Hier ein Beispiel (mit dem Argument na_values=&#34;none&#34; markiert pandas die &#34;none&#34; Einträge in der Spalte &#39;Notice Preference Definition&#39; als fehlende Werte):&#xA;import pandas as pd df = pd.read_csv( &#34;../data/Library_Usage.csv&#34;, low_memory=False, na_values=&#34;Null&#34; ) pd.crosstab( df[&#39;Notice Preference Definition&#39;], df[&#39;Age Range&#39;], margins=True ) Age Range 0 to 9 years 10 to 19 years 20 to 24 years 25 to 34 years 35 to 44 years 45 to 54 years 55 to 59 years 60 to 64 years 65 to 74 years 75 years and over All Notice Preference Definition Email 30075 56115 24544 90890 81600 46797 18086 16091 27987 16437 408622 Phone 1580 10494 2150 2675 2452 2122 1261 1577 3700 3676 31687 Print 1030 628 263 1000 968 596 279 299 627 542 6232 All 32685 67237 26957 94565 85020 49515 19626 17967 32314 20655 446541 Eine Kreuztabelle mit absoluten Werten ist häufig schwer zu interpretieren, wenn die Randverteilungen ungleich verteilt sind. Deswegen sollten die Werte entweder Spaltenweise oder Zeilenweise normalisiert werden:</description>
     </item>
-    
     <item>
       <title>Korrelation</title>
-      <link>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/descriptive_statistics/bivariate/correlation/</link>
+      <link>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/descriptive_statistics/bivariate/correlation/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zbmed.github.io/2022-2023-ZK_Data_Librarian_Modul_3/descriptive_statistics/bivariate/correlation/</guid>
-      <description>Für zwei metrische Variablen lässt sich der Zusammenhang über die sog. Kovarianz berechnen.
-Wenn die Variablen mit $x$ und $y$ bezeichnet werden, ergibt sich die Kovarianz aus der Formel:
-$$ s_{x, y}^2 = \frac{1}{N-1}\sum_{i=1}^{N}(x_i-\bar{x})(y_i-\bar{y}) , $$
-wobei $\bar{x}$ und $\bar{y}$ die entsprechenden Mittelwerte darstellen und $N$ die Größe der Stichprobe (die Anzahl an Elementen in der Datenreihe von $x$ oder $y$).
-Ein positiver Wert der Kovarianz drückt aus, dass wenn die Werte der einen Variablen steigen, dies auch für die andere Variable gilt.</description>
+      <guid>http://localhost:1313/2024-2025-ZK_Data_Librarian_Modul_3/descriptive_statistics/bivariate/correlation/index.html</guid>
+      <description>Für zwei metrische Variablen lässt sich der Zusammenhang über die sog. Kovarianz berechnen.&#xA;Wenn die Variablen mit $x$ und $y$ bezeichnet werden, ergibt sich die Kovarianz aus der Formel:&#xA;$$ s_{x, y}^2 = \frac{1}{N-1}\sum_{i=1}^{N}(x_i-\bar{x})(y_i-\bar{y}) , $$&#xA;wobei $\bar{x}$ und $\bar{y}$ die entsprechenden Mittelwerte darstellen und $N$ die Größe der Stichprobe (die Anzahl an Elementen in der Datenreihe von $x$ oder $y$).&#xA;Ein positiver Wert der Kovarianz drückt aus, dass wenn die Werte der einen Variablen steigen, dies auch für die andere Variable gilt. Eine negative Kovarianz bedeutet hingegen, dass wenn die Werte der einen Variablen steigen, die Werte der anderen Variablen sinken.</description>
     </item>
-    
   </channel>
 </rss>
