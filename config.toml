@@ -49,6 +49,8 @@ enableInlineShortcodes = false
   # Change default color scheme with a variant one. Can be "red", "blue", "green".
   themeVariant = "green"
 
+  math = true
+
 [[menu.shortcuts]]
 name = "<i class='far fa-calendar-check'></i> Termine und Überblick"
 identifier = "dates"
